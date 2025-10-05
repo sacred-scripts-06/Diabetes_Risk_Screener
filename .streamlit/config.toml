@@ -1,3 +1,2 @@
 [runner]
-# This line forces Streamlit Cloud to use Python 3.11.
 python_version = "3.11"
